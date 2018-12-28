@@ -15,7 +15,7 @@ PATHS = {
         "method": "post",
     },
     "login_check": {
-        "path": "/passport/captcha/captcha-image",
+        "path": "/passport/captcha/captcha-image64",
         "method": "get",
         "params": {"login_site": "E", "module": "login", "rand": "sjrand"},
     },
